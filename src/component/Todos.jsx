@@ -26,6 +26,9 @@ const Todos = () => {
     },
     {
       text: "Belajar State"
+    },
+    {
+      text: "Belajar React"
     }
   ];
   return (
